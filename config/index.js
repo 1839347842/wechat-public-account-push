@@ -18,7 +18,7 @@ export const config = {
    * [
    *  {
    *    // 想要发送的人的名字
-   *    name: "老婆0",
+   *    name: "xu",
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
    *    id: "ohxOO6VskYv0Kuf-ywIZVRMpuXhk",
    *    // 你想对他发送的模板消息的模板ID
@@ -47,8 +47,8 @@ export const config = {
       name: "白书娜", 
       id: "ofNNB57qFLX0E-0LNVwRaOxdm0So",
       useTemplateId: "pj6n0R23QlpeoZX3AaHZ159SR0hgzHeEvTbztzI3SRM",
-      province: "",
-      city: "",
+      province: "安徽",
+      city: "滁州",
       openUrl: "https://s.weibo.com/top/summary"
     }, 
    
@@ -93,7 +93,6 @@ export const config = {
   FESTIVALS: [
     {"type": "生日", "name": "xu", "year": "2004", "date": "03-13"},
     {"type": "节日", "name": "在一起的日子", "year": "2022", "date": "08-28"},
-    {"type": "节日", "name": "在一起的日子", "year": "2022", "date": "08-28"},
     {"type": "生日", "name": "白书娜", "year": "2001", "date": "09-012"},
   ],
 
@@ -113,12 +112,7 @@ export const config = {
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
     {"keyword": "love_day", date: "2022-08-28"},
-    // 结婚纪念日
-    //{"keyword": "marry_day", date: "2020-01-04"},
-    // 退伍日, 不用可以删掉
-    //{"keyword": "ex_day", date: "2022-08-31"},
-    // sakana日
-    // {"keyword": "sakana_day", date: "2022-01-06"},
+   
     // ... 
   ],
 

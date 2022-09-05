@@ -31,7 +31,7 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "老婆0",
+      name: "xu",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ofNNB5yDa62XnoVmUa3OBnBqm3eE ",
       // 你想对他发送的模板消息的模板ID
@@ -67,7 +67,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ofNNB5yDa62XnoVmUa3OBnBqm3eE",
+      id: "ofNNB5yDa62XnoVmUa3OBnBqm3eE2",
     }, 
   ],
     
@@ -93,7 +93,7 @@ export const config = {
   FESTIVALS: [
     {"type": "生日", "name": "xu", "year": "2004", "date": "03-13"},
     {"type": "节日", "name": "在一起的日子", "year": "2022", "date": "08-28"},
-    {"type": "生日", "name": "白书娜", "year": "2001", "date": "09-012"},
+    {"type": "生日", "name": "白书娜", "year": "2001", "date": "09-12"},
   ],
 
   /**
